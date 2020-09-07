@@ -17,4 +17,4 @@ The USGS is interested in building a new set of tools that will allow them visua
 * Added layer controls 
 * Fault popups included to provide additional information about the fault when a fault-line is clicked.
 
-![animated-scatter](Images/results.GIF)
+![animated-scatter](Images/results.gif)
