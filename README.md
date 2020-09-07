@@ -9,3 +9,10 @@ The USGS is interested in building a new set of tools that will allow them visua
 * This mas was built using Leaflet to plot all of the earthquakes from your data set based on their longitude and latitude.
 * The data markers reflect the magnitude of the earthquake in their size and and the significance of earthquake in their color. Earthquakes with higher magnitudes appear larger and those with higher significance appear darker in color.
 * Popups provide additional information about the earthquake when a marker is clicked.
+
+## Level 2: Advanced Visualization
+* Fault system is included
+* Fault-lines with slip_rate values, Greater than 5.0 mm/yr and Between 1.0 and 5.0 mm/yr are plotted
+* Three base maps added  to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
+* Added layer controls 
+* Fault popups included to provide additional information about the fault when a fault-line is clicked.
