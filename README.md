@@ -16,3 +16,4 @@ The USGS is interested in building a new set of tools that will allow them visua
 * Three base maps added  to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 * Added layer controls 
 * Fault popups included to provide additional information about the fault when a fault-line is clicked.
+![animated-scatter](Images/results.GIF)
